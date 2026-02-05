@@ -1,8 +1,10 @@
 public class Empleado {
+    // atributos
     private int numEmp;
     private String nomEmp;
     private double sueldo;
 
+    // Constructores
     public Empleado() {
         this.numEmp = 0;
         this.nomEmp = "";
