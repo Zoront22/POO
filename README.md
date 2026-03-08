@@ -159,15 +159,3 @@ Implementación de una clase para representar puntos en un plano cartesiano con 
 - **Ejercicios Prácticos**: Cada proyecto en este repositorio
 
 ---
-
-## 👨‍💻 Autor
-
-**Zoront22** - Estudiante de Ingeniería en Sistemas
-
----
-
-## 📝 Notas
-
-Este repositorio es parte del proceso de aprendizaje en programación orientada a objetos. Los códigos aquí presentados son ejercicios educativos que demuestran la aplicación práctica de los conceptos fundamentales de la POO.
-
-**Última actualización**: 2026-03-08
