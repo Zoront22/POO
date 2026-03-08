@@ -140,11 +140,8 @@ Implementación de una clase para representar puntos en un plano cartesiano con 
 
 ---
 
-## 💡 Cómo Usar Este Repositorio
-
-1. **Explorar las carpetas**: Cada carpeta contiene un proyecto independiente con su propia lógica y aplicaciones.
-2. **Leer los READMEs**: Cada carpeta tiene un archivo README.md que explica el funcionamiento del código y los métodos disponibles.
-3. **Compilar y Ejecutar**: Los proyectos están escritos en Java y pueden compilarse con:
+## 💡 Cómo compilar y ejecutar el código
+**Compilar y Ejecutar**: Los proyectos están escritos en Java y pueden compilarse con:
    ```bash
    javac NombreClase.java
    java NombreClase
