@@ -141,6 +141,30 @@ public class Vector {
 		}
 	}
 	
+	// Corrimientos
+	public void corrimientosDerecha() {
+		int ultimo;
+		
+		ultimo = a[a.length - 1];
+		
+		for (int i = a.length - 1; i > 0; i--) {
+			a[i] = a[i - 1];
+		}
+		
+		a[0] = ultimo;
+	}
+	
+	public void corrimientosIzquierda() {
+		int primero;
+		
+		primero = a[0];
+		
+		for (int i = 0; i < a.length - 1; i++) {
+			a[i] = a[i+1];
+		}
+		a[a.length -1] = primero;
+	}
+	
 	// Metodo ToString
 	public String toString() {
 		String salida = "";
